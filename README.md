@@ -45,7 +45,7 @@ With the help of the work done in the repository mentioned below, I changed a fe
 
 ---
 ## To Do
-- **Update the README file with Realistic module features and Verification, add simulation waveforms
+- **Update** - README file with Realistic module features and Verification, add simulation waveforms
 
 ---
 This project was inspired by the work found in [SDRAM_Verilog](https://github.com/yigitbektasgursoy/SDRAM_Verilog)
