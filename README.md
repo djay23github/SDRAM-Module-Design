@@ -1,5 +1,5 @@
 # SDRAM Module Design
-This project includes the implementation of an SDRAM Module ( Synchronous Dynamic Random Access Memory ) in verilog and my understanding of the timing and control signals involved in the operation.
+This project includes the implementation of an SDRAM Module ( Synchronous Dynamic Random Access Memory ) in verilog and my understanding of the timing and control signals involved in the operation. It was inspired by the work found in [SDRAM_Verilog](https://github.com/yigitbektasgursoy/SDRAM_Verilog)
 
 ## Contents
 
@@ -46,6 +46,3 @@ With the help of the work done in the repository mentioned below, I changed a fe
 ---
 ## To Do
 - **Update** - README file with Realistic module features and Verification, add simulation waveforms
-
----
-This project was inspired by the work found in [SDRAM_Verilog](https://github.com/yigitbektasgursoy/SDRAM_Verilog)
