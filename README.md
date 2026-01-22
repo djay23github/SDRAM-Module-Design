@@ -3,7 +3,7 @@ This project includes the implementation of an SDRAM Module ( Synchronous Dynami
 
 ## Contents
 
-1. [SDRAM Module (Behavioral)](#behavioral)
+1. [SDRAM Module (Behavioral)](#sdrammodule(behavioral))
 2. [SDRAM Module (Realistic)](#realistic)
 3. [My Changes](#changes)
 4. [Verification](#verification)
